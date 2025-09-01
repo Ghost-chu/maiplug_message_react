@@ -1,0 +1,37 @@
+{
+  "manifest_version": 1,
+  "name": "maiplug_message_react",
+  "version": "1.0.0",
+  "description": "通过 Napcat API 对指定消息点赞",
+  "author": {
+    "name": "Ghost_chu",
+    "url": "https://github.com/Ghost-chu"
+  },
+  "license": "MIT",
+  
+  "host_application": {
+    "min_version": "0.10.1"
+  },
+  "homepage_url": "https://github.com/Ghost-chu/maiplug_message_react",
+  "repository_url": "https://github.com/Ghost-chu/maiplug_message_react",
+  "keywords": ["reaction","group", "interactive"],
+  "categories": ["Entertainment & Interaction", "Group Management"],
+  
+  "default_locale": "zh-CN",
+  "locales_path": "_locales",
+  
+  "plugin_info": {
+    "is_built_in": false,
+    "plugin_type": "general",
+    "components": [
+      {
+        "type": "action",
+        "name": "msg_react",
+        "description": "向指定群聊消息添加(贴)反应表情"
+      }
+    ],
+    "features": [
+      "消息反应表情功能"
+    ]
+  }
+}
