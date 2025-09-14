@@ -1,5 +1,6 @@
 # maiplug_message_react
-麦麦插件，让麦麦学会怎么给消息贴表情吧
+麦麦插件，让麦麦学会怎么给消息贴表情吧  
+通过调用 Napcat API，让麦麦使用 LLM 决定为哪条消息贴哪个表情
 
 <img width="832" height="427" alt="PixPin_2025-09-01_22-10-20" src="https://github.com/user-attachments/assets/e0a68cd3-718b-464b-b9e8-e7c1926421c3" />
 
