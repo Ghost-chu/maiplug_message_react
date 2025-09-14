@@ -2,7 +2,7 @@
   "manifest_version": 1,
   "name": "maiplug_message_react - 麦麦贴表情",
   "version": "1.0.0",
-  "description": "通过 Napcat API 对指定消息贴表情",
+  "description": "通过 Napcat API 赋予麦麦对消息贴表情的能力",
   "author": {
     "name": "Ghost_chu",
     "url": "https://github.com/Ghost-chu"
